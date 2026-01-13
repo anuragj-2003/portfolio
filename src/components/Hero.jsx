@@ -23,7 +23,7 @@ const Hero = ({ details }) => {
 
           <div className="cta-buttons">
             <a href="#contact" className="btn btn-primary">Contact Me</a>
-            <a href="/data/resume/resume.pdf" download className="btn btn-outline">Download Resume</a>
+            <a href="/data/resume/anurag.j_resume.pdf" download className="btn btn-outline">Download Resume</a>
           </div>
         </motion.div>
       </div>
