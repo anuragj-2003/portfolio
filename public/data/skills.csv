@@ -1,0 +1,8 @@
+Category,Skills
+Generative AI & LLMs,"LangChain, LangGraph, RAG Pipelines, Agentic Workflows, Prompt Engineering, LLM App Development"
+Languages,"Python, JavaScript, SQL"
+Backend & Frameworks,"Django, FastAPI, Flask, Node.js, Express"
+Databases,"MongoDB, MySQL, DynamoDB"
+Cloud & DevOps,"AWS (EC2, S3), Docker, Kubernetes, Jenkins, Nginx"
+AI & Data Science,"Pandas, NumPy, scikit-learn, TensorFlow"
+Frontend & UI,"React.js, Tailwind CSS"

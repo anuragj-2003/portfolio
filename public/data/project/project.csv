@@ -1,0 +1,8 @@
+Title,TechStack,Description,Link
+Deep Research Agent,"Python, LangGraph, LangChain, Groq, Tavily","Autonomous research assistant with ReAct-based web scraping, RAG, and multi-modal report generation.",https://github.com/anuragj-2003/deep-research-agent
+AI Workspace,"React, FastAPI, LangChain, Groq, SQLite","Full-stack GenAI research/chat platform with hybrid RAG, web search, and secure authentication.",https://github.com/anuragj-2003/genai_rag_app
+Microservices Python App,Python,"Scalable and modular application managing multiple microservices using Docker and Kubernetes. Integrates CI/CD pipelines.",https://github.com/anuragj-2003/Microservice-Python-App
+Movie Recommendation System,"Python, Pandas, Scikit-learn","Recommends movies using content-based and collaborative filtering techniques.",https://github.com/anuragj-2003/movie-recommendation-system
+MVC Chat App,"Laravel, Tailwind CSS, Pusher","Real-time chat platform supporting group/private chats, typing indicators, and file uploads.",https://github.com/anuragj-2003/MVC-CHAT-APP
+Video Process App,"Django, AWS S3, DynamoDB, Celery","Upload videos, extract subtitles, and store results in AWS. Handles background processing.",https://github.com/anuragj-2003/video_process_app
+Social Media Web App,"Next.js, JavaScript","Full-featured social media app with user authentication and efficient data handling.",https://github.com/anuragj-2003/social-media-web-app
